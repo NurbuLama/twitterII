@@ -21,5 +21,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
+
 Here's a walkthrough of implemented user stories:
 
+![ezgif com-optimize](https://user-images.githubusercontent.com/76956847/135961098-755600ac-1014-4c5f-94b1-9b6c867f84b3.gif)
